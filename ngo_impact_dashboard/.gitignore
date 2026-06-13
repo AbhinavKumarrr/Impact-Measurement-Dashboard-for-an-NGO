@@ -1,0 +1,67 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+
+
+# Environment Variables
+
+.env
+.env.example
+.env.local
+
+
+# Python build files
+
+build/
+dist/
+*.egg-info/
+
+
+# Node / React / Vite
+
+node_modules/
+frontend/node_modules/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# VS Code
+
+.vscode/
+
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+
+# Logs
+
+*.log
+
+
+# Coverage / Testing
+
+coverage/
+.pytest_cache/
+
+
+# Local Databases
+
+*.sqlite
+*.db
+
+
+

@@ -1,0 +1,76 @@
+# NGO Impact Dashboard — Organisation Config
+# Fork this template: copy repo, edit this file, regenerate data.
+
+organisation:
+  ngo_id: 1
+  ngo_name: "Udaan Education Foundation"
+  sector: Education
+  city: Delhi
+  state: Delhi
+  country: India
+  currency: INR
+  currency_symbol: "₹"
+
+programmes:
+  - program_id: 1
+    program_name: Remedial Learning
+    program_type: Education
+    budget_allocated: 250000
+  - program_id: 2
+    program_name: Digital Literacy
+    program_type: Skill Development
+    budget_allocated: 180000
+  - program_id: 3
+    program_name: Girls Attendance Support
+    program_type: Retention
+    budget_allocated: 150000
+
+geography:
+  districts:
+    - North Delhi
+    - South Delhi
+    - East Delhi
+    - West Delhi
+    - Noida
+    - Ghaziabad
+
+kpi_targets:
+  ACT_SESSIONS: 5000
+  ACT_SUBMISSIONS: 12
+  ACT_SPEND: 580000
+  OUT_ENROLLED: 800
+  OUT_ATTENDANCE: 6000
+  OUT_ASSESSED: 500
+  OUT_ATT_RATE: 75
+  OUT_LEARN_GAIN: 12
+  OUT_RETENTION: 80
+  IMP_COST_BEN: 725
+  IMP_COST_LEARN: 500
+  IMP_REACH: 18
+  IMP_EFFICIENCY: 1.5
+
+dashboard:
+  title: "Impact Dashboard"
+  subtitle: "Education programmes in Delhi NCR"
+  refresh_interval_seconds: 30
+  primary_color: "#2563eb"
+
+data_sources:
+  primary: postgresql          # postgresql | google_sheets | csv
+  google_sheets:
+    enabled: true
+    sync_script: scripts/sync_google_sheets.py
+  sample_data:
+    beneficiaries: 800
+    seed: 42
+
+bi_tools:
+  - metabase
+  - power_bi
+  - tableau_public
+  - looker_studio
+
+frameworks:
+  - Logical Framework
+  - Theory of Change
+  - IRIS+
