@@ -1,6 +1,6 @@
-# Udaan Education Foundation — Impact Measurement Dashboard
+# Impact Measurement Dashboard for an NGO
 
-Interactive impact measurement dashboard for NGOs, built to transform field-level data into meaningful KPIs and visual insights.
+Interactive impact measurement dashboard for NGOs, here named Udaan Education Foundation, built to transform field-level data into meaningful KPIs and visual insights.
 
 The dashboard demonstrates how education-focused NGOs can track programme performance, learning outcomes, demographic reach, spending efficiency, and overall impact using a modern analytics stack.
 
