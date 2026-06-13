@@ -1,4 +1,4 @@
-# Udaan Education Foundation — mpact Measurement Dashboard
+# Udaan Education Foundation — Impact Measurement Dashboard
 
 Interactive impact measurement dashboard for NGOs, built to transform field-level data into meaningful KPIs and visual insights.
 
