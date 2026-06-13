@@ -6,6 +6,9 @@ The dashboard demonstrates how education-focused NGOs can track programme perfor
 
 ---
 
+## 🎥 Demo Video:
+https://drive.google.com/drive/folders/1dIHv70xCj_oDRiNATAjAWN7YCGgO4g6l?usp=drive_link
+
 ## Features
 
 ### Executive Dashboard
