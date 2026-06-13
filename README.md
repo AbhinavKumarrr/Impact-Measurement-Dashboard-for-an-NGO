@@ -9,6 +9,21 @@ The dashboard demonstrates how education-focused NGOs can track programme perfor
 ## 🎥 Demo Video:
 https://drive.google.com/drive/folders/1dIHv70xCj_oDRiNATAjAWN7YCGgO4g6l?usp=drive_link
 
+---
+
+## 📸 Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### KPI Ladder
+![KPI Ladder](screenshots/kpi-ladder.png)
+
+### Demographics & Trends
+![Demographics and Trends](screenshots/demographics and trends.png)
+
+---
+
 ## Features
 
 ### Executive Dashboard
