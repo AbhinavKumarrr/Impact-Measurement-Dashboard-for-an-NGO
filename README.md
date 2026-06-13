@@ -20,7 +20,7 @@ https://drive.google.com/drive/folders/1dIHv70xCj_oDRiNATAjAWN7YCGgO4g6l?usp=dri
 ![KPI Ladder](kpi-ladder.png)
 
 ### Demographics & Trends
-![Demographics and Trends](demographics and trends.png)
+![Demographics and Trends](demographics-and-trends.png)
 
 ---
 
