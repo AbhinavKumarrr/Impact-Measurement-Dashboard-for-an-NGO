@@ -14,13 +14,13 @@ https://drive.google.com/drive/folders/1dIHv70xCj_oDRiNATAjAWN7YCGgO4g6l?usp=dri
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ### KPI Ladder
-![KPI Ladder](screenshots/kpi-ladder.png)
+![KPI Ladder](kpi-ladder.png)
 
 ### Demographics & Trends
-![Demographics and Trends](screenshots/demographics and trends.png)
+![Demographics and Trends](demographics and trends.png)
 
 ---
 
